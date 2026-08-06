@@ -1,0 +1,6 @@
+{
+  "name": "Hangman Game",
+  "description": "A beautifully styled, interactive web-based Hangman game incorporating dual rendering modes, customized word challenges, retro audio, and direct statistics tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
