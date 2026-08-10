@@ -1,0 +1,6 @@
+{
+  "name": "Basic Chatbot",
+  "description": "A rule-based chatbot with customizable response rules, keyword matching, and interactive message interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
